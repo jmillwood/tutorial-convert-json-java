@@ -4,7 +4,7 @@
 
   <groupId>com.johnrmillwood.tutorial</groupId>
   <artifactId>tutorial-convert-json-java</artifactId>
-  <version>0.0.1</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>tutorial-convert-json-java</name>

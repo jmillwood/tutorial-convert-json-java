@@ -6,9 +6,6 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.johnrmillwood.tutorial.Contact;
-import com.johnrmillwood.tutorial.ContactManager;
-
 public class ContactManagerTest {
 
 	@Test

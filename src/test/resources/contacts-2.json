@@ -1,0 +1,9 @@
+[ {
+  "emailAddress" : "johndoe@somewhere.com",
+  "firstName" : "John",
+  "lastName" : "Doe"
+}, {
+  "emailAddress" : "janedoe@somewhere.com",
+  "firstName" : "Jane",
+  "lastName" : "Doe"
+} ]
